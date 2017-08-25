@@ -50,3 +50,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #React.js front end fraimwork.
 gem 'react_on_rails', '~> 8.0', '>= 8.0.6'
+
+gem 'mini_racer', platforms: :ruby
+gem 'webpacker_lite'
+
+#Bootstrap for Rails app
+gem 'bootstrap-sass'
